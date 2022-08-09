@@ -1,0 +1,8 @@
+{
+  "short_name": "Qual é o número?",
+  "name": "Jogo Qual é o número?",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
